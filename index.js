@@ -14,3 +14,6 @@ var funtinonCheckTest = function(){
 var testCompleted = function(){
     console.log('testComplete');
 }
+var donTask = function(){
+    console.log('doneTask');
+}
